@@ -1,0 +1,5 @@
+ {   
+ 	"logfile": "test.log",
+    "logpath": "/tmp/",
+    "loglevel": "warn"
+  }
